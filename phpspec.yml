@@ -2,3 +2,6 @@ suites:
     prime_suite:
         namespace: RDSysCo\PHPSpec
         psr0_prefix: RDSysCo\PHPSpec
+    roman_numbers_suite:
+            namespace: RDSysCo\PHPSpec
+            psr0_prefix: RDSysCo\PHPSpec
