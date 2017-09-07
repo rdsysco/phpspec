@@ -12,3 +12,6 @@ suites:
     calculator:
             namespace: RDSysCo\Command
             psr0_prefix: RDSysCo\Command
+    calculator_suite:
+                namespace: RDSysCo\Calculator
+                psr0_prefix: RDSysCo\Calculator
