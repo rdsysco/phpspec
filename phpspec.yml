@@ -5,3 +5,10 @@ suites:
     roman_numbers_suite:
             namespace: RDSysCo\PHPSpec
             psr0_prefix: RDSysCo\PHPSpec
+
+    bowling_game_suite:
+            namespace: RDSysCo\PHPSpec
+            psr0_prefix: RDSysCo\PHPSpec
+    calculator:
+            namespace: RDSysCo\Command
+            psr0_prefix: RDSysCo\Command
